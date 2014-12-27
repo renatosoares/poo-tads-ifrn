@@ -1,4 +1,4 @@
-# Lista de exercírcio POO :computer:
+# Listas de exercícios de POO :computer:
 
 Exercícios de prática na disciplina Programação Orientada a Objetos :package: 
 _O conteúdo esta sendo aplicado com a linguagem de programação **C#** da Microsoft_
